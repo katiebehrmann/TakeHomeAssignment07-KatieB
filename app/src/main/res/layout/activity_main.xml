@@ -15,3 +15,21 @@
         android:layout_height="wrap_content"
         android:text="Hello Firebase!" />
 </RelativeLayout>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>--><!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--xmlns:tools="http://schemas.android.com/tools"--><!--android:id="@+id/activity_main"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent"--><!--android:orientation="vertical"--><!--tools:context="com.example.android.takehomeassignment07_katieb.MainActivity">-->
+
+    <!--<RelativeLayout--><!--android:id="@+id/final_view"--><!--android:layout_width="match_parent"--><!--android:layout_height="wrap_content">-->
+
+    <!--<ImageView--><!--android:layout_width="fill_parent"--><!--android:layout_height="250dp"--><!--android:layout_alignParentLeft="true"--><!--android:layout_alignParentRight="true"--><!--android:scaleType="fitXY"--><!--android:src="@drawable/firebase" />-->
+
+    <!--<TextView--><!--android:id="@+id/output_text"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_alignParentTop="true"--><!--android:layout_centerHorizontal="true"--><!--android:layout_marginTop="200dp"--><!--android:background="#70000000"--><!--android:padding="8dp"--><!--android:text="Hello Firebase!"--><!--android:textColor="@android:color/white" />-->
+
+    <!--</RelativeLayout>-->
+
+    <!--<EditText--><!--android:id="@+id/input_text"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_gravity="center"--><!--android:hint="Hello Firebase!" />-->
+
+    <!--<Button--><!--android:layout_width="wrap_content"--><!--android:id="@+id/upload_button"--><!--android:layout_height="wrap_content"--><!--android:layout_gravity="center"--><!--android:onClick="onClick"--><!--android:paddingLeft="16dp"--><!--android:paddingRight="16dp"--><!--android:text="Upload to Firebase" />-->
+
+    <!--<ProgressBar--><!--android:id="@+id/progress_bar"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_gravity="center"--><!--android:layout_marginTop="16dp"/>-->
+
+    <!--<TextView--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_gravity="center"--><!--android:text=""--><!--android:id="@+id/download_url"--><!--android:layout_marginTop="16dp"/>--><!--</LinearLayout>-->
